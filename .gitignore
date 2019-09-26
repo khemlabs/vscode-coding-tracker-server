@@ -80,3 +80,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Token File
+TokenFile.example.json
+.coding-tracker-token.json
